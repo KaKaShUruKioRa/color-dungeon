@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.38/win64" 1635445608
+<REAPER_PROJECT 0.1 "6.38/win64" 1635483180
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 3.06525089688742
-  ZOOM 82.79747851812719 0 0
-  VZOOMEX 0 50
+  CURSOR 67.2
+  ZOOM 7.56420441631486 0 0
+  VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "E:\Users\KaKaShUruk\Music\Reaper\Rendus\Rendu Mix\Color Dungeon (A Link to the Dream) (16bit).wav"
+  RENDER_FILE "E:\Users\KaKaShUruk\Music\Reaper\Rendus\Rendu Mix\Color Dungeon (A Link to the Dream) (16bit)2.wav"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -132,11 +132,10 @@
     BYPASS 0 0 0
     <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
       bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
-      776t3g3wrd5VvR8+Yt5OPLMuGjuL+488AAAAAAAAAABQjoY+AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAABzFLPVK4Hj4AAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
-      AFByb2dyYW0gMQAQAAAA
+      776t3g3wrd4rnXM8uggMPbMuGjuL+488AAAAAAAAAABFQGk/epCAOwAAAAAAAAAA0UJGP4Hc2D8AAAAABzFLPW8Sgz0AAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
+      AAAQAAAA
     >
-    PRESETNAME "Program 1"
-    FLOATPOS 856 203 517 393
+    FLOATPOS -792 347 517 393
     FXID {ED09E93F-E7C1-4CFD-95E4-254E90891AFE}
     WAK 0 0
     BYPASS 0 0 0
@@ -416,66 +415,50 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 56 10 1349 909
+      WNDRECT 0 15 734 436
       SHOW 0
-      LASTSEL 4
+      LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST: ReaGate (Cockos)" reagate.dll 0 "" 1919248244<56535472656774726561676174650000> ""
         dGdlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
         776t3g3wrd7ywgI7ppvEOwrXozwAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAACc0QczAACAP5zRBzMAAIA/AAAAAAAAAAAAAAAALBYLPwAAAAAAAAAAAAAAAAAAAAA=
-        AFByb2dyYW0gMQAQAAAA
+        AAAQAAAA
       >
-      PRESETNAME "Program 1"
       FLOATPOS -1560 163 510 389
       FXID {371CEA88-D847-455E-8924-829467ACF2E5}
       WAK 0 0
       BYPASS 0 0 0
       <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
         bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA/AAAAAEAAAAAABAA
-        AAAAAAAAAAAFAAAALAAAAAIAAAAAAAAAebOAPwAAgD8AAAAAAACAPwAAAAAAAIA6zk0AP+bpbD8K1yM8AACAPwAAgD/Mm4A+AACAPwAAAAAAAAAAAAAAAAAAgDrMm4A+
-        5ulsPwrXIzwAAIA/AACAPyKngD4AAGA/AAAAAAAAAAAAAAAAMzOzOsybgD7m6Ww/CtcjPAAAgD8AAIA/zk0APwAAAD4AAAAAAAAAAAAAAAAAAIA7BksiPubpbD8K1yM8
+        AAAAAAAAAAAFAAAALAAAAAIAAAABAAAAebOAPwAAgD8AAAAAAACAPwAAAAAAAIA6zk0AP+bpbD8K1yM8AACAPwAAgD8aqrU+AACAPwAAAAAAAIA/AAAAAAAAgDrMm4A+
+        5ulsPwrXIzwAAIA/AACAPxqqtT4AAGA/AAAAAAAAgD8AAAAAMzOzOsybgD7m6Ww/CtcjPAAAgD8AAIA/Gqq1PgAAAD4AAAAAAAAAAAAAAAAAAIA7BksiPubpbD8K1yM8
         AACAPwAAgD/Mm4A+AAAAPgAAAAAAAAAAAAAAAAAAgDsGSyI+5ulsPwrXIzwAAIA/AACAP8ybgD4AAGA/
-        AFByb2dyYW0gMQAQAAAA
+        AAAQAAAA
       >
-      PRESETNAME "Program 1"
       FLOATPOS 24 52 523 389
       FXID {E55543CF-B346-4F39-8DDA-2E0ED74D2DA2}
       WAK 0 0
       BYPASS 0 0 0
-      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468<5653547265646C72656164656C617900> ""
-        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA/AAAAAEAAAAAABAA
-        AAAAAAAAAAAFAAAALAAAAAIAAAACAAAAebOAPwAAgD8AAAAAAAAAAAAAAAAAAIA6zJuAPubpbD8K1yM8AACAPwAAgD/OTQA/AAAAPwAAAAAAAIA/AAAAAAAAgDrOTQA/
-        5ulsPwrXIzwAAIA/AACAPyKngD4AAGA/AAAAAAAAgD8AAAAAMzOzOs5NAD/m6Ww/CtcjPAAAgD8AAIA/zk0APwAAAD4AAAAAAAAAAAAAAAAAAIA7BksiPubpbD8K1yM8
-        AACAPwAAgD/Mm4A+AAAAPgAAAAAAAAAAAAAAAAAAgDsGSyI+5ulsPwrXIzwAAIA/AACAP8ybgD4AAGA/
-        AFByb2dyYW0gMQAQAAAA
-      >
-      PRESETNAME "Program 1"
-      FLOATPOS 0 0 0 0
-      FXID {A572DE7E-316F-4669-BC9D-B2909290A8C1}
-      WAK 0 0
-      BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
-        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMAEAAAEAAAAAABAA
-        IQAAAAgAAAAAAAAAAQAAAOVBfmrQklFAgO21oPfGsD6uR+F6FK71PwEBAAAAAQAAAMbmbMU5qbFAlw/ae0juBEB8wvUoXI/uPwEIAAAAAQAAADm5FxMCE2JAK2AFXnE1
-        9z8RqvHSTWL2PwEIAAAAAQAAAFtfd5WpZqJABq6POibc5j+CxCCwcmgGQAEIAAAAAAAAAIHmgGREa7VAgj6Q36c77z8FL90kBoHpPwEIAAAAAAAAAFNGNf9W1rdAmcAS
-        qXcD9z+RcmiR7XzXPwEIAAAAAQAAAH96wWUj0YhAAV5Kck0ZAEB+61G4HoX1PwEIAAAAAAAAAMd+Xf2BkrRAeuU1YD1l8D9ACKwcWmTnPwEBAAAAAQAAAKKcqANweek/
-        AAAAAFgGAACQAwAAAgAAAA==
-        AFByb2dyYW0gMQAQAAAA
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAUQEAAAEAAAAAABAA
+        IQAAAAkAAAAAAAAAAQAAAORBfmrQklFAgO21oPfGsD6uR+F6FK71PwEBAAAAAQAAAIbnd61MW7NARPlEUAXwCkB/wvUoXI/uPwEIAAAAAQAAABAsmXwxhVRAEC5WR0JG
+        C0CRFtnO91P5PwEIAAAAAQAAAFosLCXfeKJAIJhOSGhd+D+MPQrXo3DtPwEIAAAAAAAAAIHmgGREa7VAgj6Q36c77z8FL90kBoHpPwEIAAAAAAAAAFNGNf9W1rdAmcAS
+        qXcD9z+RcmiR7XzXPwEIAAAAAQAAAAB7t4KqjYpA4j5mIgy4BEC+Rbbz/dTyPwEIAAAAAAAAAMd+Xf2BkrRAeuU1YD1l8D9ACKwcWmTnPwEIAAAAAQAAALLr5G9VXHNA
+        SvE413hQBEDARbbz/dT0PwEBAAAAAQAAAC1QHP9gkdg/AAAAAFgGAACQAwAAAgAAAA==
+        AAAQAAAA
       >
-      PRESETNAME "Program 1"
       FLOATPOS -1422 293 593 481
       FXID {08A185B3-0C0C-4950-B1CD-AF9E11E48AA0}
       WAK 0 0
       BYPASS 0 0 0
       <VST "VST: ReaXcomp (Cockos)" reaxcomp.dll 0 "" 1919252579<5653547265786372656178636F6D7000> ""
         Y3hlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAEAAAEAAAAAABAA
-        OAAAAAQAAAAAAAAAAABUQOmH+ovRpgBAFbKfERLMnj82FJM3wMwFQAAAAAAAAAAADwAAAJUAAAAFAAAAEQAAAMQKTzFySqJAeDpLDImf/D+GQBKdYGe1P0AUkzfAzAVA
-        AAAAAAAAAAAPAAAAlgAAAAUAAAAQAAAApqUdJJihykCykws6lvwBQHYvXD5UiKI/wC+gF+5cBkAAAAAAAAAAAA8AAACWAAAABQAAABAAAAAAppmV5c7VQOZQPyVTtglA
-        5DGAvE5TeD80FJM3wMwFQPp+arx0k8g/EgAAAJYAAAAFAAAAEAAAAAEAAAABAAAA/JeN/Y/y4T8AAAAAYgQAABwDAAAAAAAAAgAAAA==
-        AFByb2dyYW0gMQAQAAAA
+        OAAAAAQAAAAcfPgtEBdUQBa2AmwJlAZAYA3VzHNTpT+2tUyG4/kEQAAAAAAAAAAADwAAAJUAAAAFAAAAEQAAAAR5YPbXeaVAaFuuAz04B0AGDsKpSFSyP0C7Jw8LtQRA
+        AAAAAAAAAAAPAAAAlgAAAAUAAAAQAAAApqUdJJihykACPv5ZSg4GQLYXvInSBqQ/QGKCGr6FBUAAAAAAAAAAAA8AAACWAAAABQAAABAAAAAAppmV5c7VQPZtUh882Q9A
+        5FNGVXgXeT80FJM3wMwFQPp+arx0k8g/EgAAAJYAAAAFAAAAEAAAAAEAAAABAAAAsB6VVgNZ4z8AAAAAYgQAABwDAAAAAAAAAgAAAA==
+        AAAQAAAA
       >
-      PRESETNAME "Program 1"
       FLOATPOS 58 109 1138 862
       FXID {8A1D9002-AC12-4361-9086-27CE8B5688BA}
       WAK 0 0
@@ -717,8 +700,8 @@
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
-        IQAAAAUAAAAAAAAAAQAAAB7QLquKHHBAgO21oPfGsD4XK4cW2c7xPwEIAAAAAQAAADy4jvLYdqlAGO8aqBUqAUAAqMZLN4n1PwEIAAAAAQAAAP9z54IXm4xALU0rwLrP
-        +T/AILByaJHlPwEBAAAAAQAAAAIn+9EXJtRAgO21oPfGsD4og8DKoUX0PwEIAAAAAQAAAIV+vquNZsdAv9dAj8Dp+D/Bo3A9CtcBQAEBAAAAAQAAAPSQ0IUTbOY/AAAA
+        IQAAAAUAAAAAAAAAAQAAAB/QLquKHHBAgO21oPfGsD4XK4cW2c7xPwEIAAAAAQAAAD+4jvLYdqlAHO8aqBUqAUAAqMZLN4n1PwEIAAAAAQAAAP9z54IXm4xAMU0rwLrP
+        +T/AILByaJHlPwEBAAAAAQAAAAEn+9EXJtRAgO21oPfGsD4og8DKoUX0PwEIAAAAAQAAAIF+vquNZsdAv9dAj8Dp+D/Bo3A9CtcBQAEBAAAAAQAAAPSQ0IUTbOY/AAAA
         ACUCAACFAQAAAgAAAA==
         AFByb2dyYW0gMQAQAAAA
       >
@@ -4236,7 +4219,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 5088 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -4955,7 +4938,7 @@
     PEAKCOL 26203036
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.74989420933246 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -5657,7 +5640,7 @@
     PEAKCOL 26203036
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.5228261849445 -0.504 -1 -1 1
+    VOLPAN 0.78736664651321 -0.408 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -6200,11 +6183,10 @@
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
-        IQAAAAQAAAAAAAAAAQAAAHLceKdsJ35AgO21oPfGsD5BuB6F61H8PwEIAAAAAQAAAH8VuD8/7KFAqtlVHHTl5j8ALbKd76f4PwEIAAAAAQAAAJIz2LfbPI5Ak3dcoQYu
-        +j+/zMzMzMzsPwEBAAAAAQAAAMGGDLUv37FAgLZZgBd79j+cR+F6FK7xPwEBAAAAAQAAANFaS/BSjOY/AAAAACUCAACFAQAAAgAAAA==
-        AFByb2dyYW0gMQAQAAAA
+        IQAAAAQAAAAAAAAAAQAAAHzceKdsJ35AgO21oPfGsD5BuB6F61H8PwEIAAAAAQAAAP/tB7lDXKJA7rCAmDJO5z8ALbKd76f4PwEIAAAAAQAAAA0ZRwzuIo1AD60dIiPu
+        9T+/zMzMzMzsPwEBAAAAAQAAAIF063QTTrJAAO9bTkvW+j+cR+F6FK7xPwEBAAAAAQAAANFaS/BSjOY/AAAAACUCAACFAQAAAgAAAA==
+        AAAQAAAA
       >
-      PRESETNAME "Program 1"
       FLOATPOS -581 283 565 455
       FXID {28639828-2273-4FAE-9E4D-0FE8BB59CC8C}
       WAK 0 0
@@ -8396,7 +8378,7 @@
     PEAKCOL 26203036
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.35481338923358 0.304 -1 -1 1
+    VOLPAN 0.59086110299887 0.408 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -8939,11 +8921,10 @@
       BYPASS 0 0 0
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
-        IQAAAAQAAAAAAAAAAQAAAJ6RW7Jnh5FAgO21oPfGsD7B9Shcj8L7PwEIAAAAAQAAAPkaTMRydLBAasG8pb1m9j8ZhxbZzvfjPwEIAAAAAQAAAM5P5QNw3ptAFN+YRMRE
-        +T9hjZduEoPwPwEBAAAAAQAAAFHE7SyRL71AQOvgg8Jy+T/AcmiR7XzzPwEBAAAAAQAAAPxEDtJGzeY/AAAAACUCAACFAQAAAgAAAA==
-        AFByb2dyYW0gMQAQAAAA
+        IQAAAAQAAAAAAAAAAQAAADosDS3Zmo5AgO21oPfGsD6BvHSTGAT4PwEIAAAAAQAAAPzvjQ1xv69AbjPVuoZv8j8YhxbZzvfjPwEIAAAAAQAAAEViglxhM5tAkM/xVNZe
+        8j9hjZduEoPwPwEBAAAAAQAAAI7CtysemLlAwAznPQjO+z/AcmiR7XzzPwEBAAAAAQAAAPxEDtJGzeY/AAAAACUCAACFAQAAAgAAAA==
+        AAAQAAAA
       >
-      PRESETNAME "Program 1"
       FLOATPOS -581 283 565 455
       FXID {25C58821-E812-4958-97DC-AED78647055B}
       WAK 0 0
@@ -11274,7 +11255,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 5088 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -11785,7 +11766,7 @@
     PEAKCOL 29667243
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.25118864315096 0 -1 -1 1
+    VOLPAN 0.06736320042077 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -11905,10 +11886,11 @@
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
         IQAAAAUAAAAAAAAAAQAAAAEHCQG2E2hAgO21oPfGsD5/FtnO91P3PwEIAAAAAQAAAD9LvzfSvl5AFL1US/u+8z/AItv5fmoCQAEIAAAAAQAAAH9hSnK2n3hAkXDmAKx0
-        5z8AAiuHFtn4PwEBAAAAAQAAALBBzFS9nZxAgO21oPfGsD75KocW2c75PwEIAAAAAQAAAH+vBaQ8fK9AaAJr/14R5D8AWDm0yHbwPwEBAAAAAQAAAH75Ojg9SfY/AAAA
+        5z8AAiuHFtn4PwEBAAAAAQAAALtBzFS9nZxAgO21oPfGsD7/KocW2c75PwEIAAAAAQAAAH+vBaQ8fK9AaAJr/14R5D8AWDm0yHbwPwEBAAAAAQAAAH75Ojg9SfY/AAAA
         ABoCAACAAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
+      PRESETNAME "Program 1"
       FLOATPOS 424 109 554 450
       FXID {B9919DF5-69F8-4426-AB58-4A970A756A73}
       WAK 0 0
@@ -12008,7 +11990,7 @@
         ENV 5 0 0
         E 60 b0 0b 7d
         ENV 5 0 0
-        E 0 b0 01 2b
+        e 0 b0 01 2c
         ENV 5 0 0
         E 60 b0 0b 7e
         ENV 5 0 0
@@ -14470,11 +14452,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 3774
         VELLANE 1 410 0
-        CFGEDITVIEW 82127.816121 0.028922 38 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 423.902761 0.214893 48 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1.99583333 0 0 0 0 0.51 0 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1 0 0 0 0 0.51 0 0 1 64
       >
     >
     <ITEM
@@ -19611,7 +19593,7 @@
     PEAKCOL 32952422
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.47315125896148 0 -1 -1 1
+    VOLPAN 0.81820013287954 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -19631,14 +19613,14 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 503 48 765 497
+      WNDRECT 503 48 827 926
       SHOW 0
-      LASTSEL 1
+      LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: C700VST (osoumen)" C700.dll 0 "" 1127690288<56535443373030633730307673740000> ""
-        MDA3Q+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAD2HgAAAQAAAAkAEAA=
-        AAAAAAQAAADv7u4+AQAAAAQAAAC4HmU/AgAAAAQAAAC4HmU/AwAAAAQAAAAAAAAABAAAAAQAAADsCBI+BQAAAAQAAAAlSRI9BgAAAAQAAAAAAIA/BwAAAAQAAABDFjI9
+        MDA3Q+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAD2HgAAAQAAAAkAEIA=
+        AAAAAAQAAADv7u4+AQAAAAQAAACmm2Q/AgAAAAQAAACmm2Q/AwAAAAQAAAAAAAAABAAAAAQAAADsCBI+BQAAAAQAAAAlSRI9BgAAAAQAAAAAAIA/BwAAAAQAAABDFjI9
         CAAAAAQAAABFIpE9CQAAAAQAAAAAAIA/CgAAAAQAAAAAAAAACwAAAAQAAAAAAAAADAAAAAQAAAAAAAAADQAAAAQAAAAAAAAADgAAAAQAAAAAAAAADwAAAAQAAAAAAAAA
         EAAAAAQAAAAAAAAAEQAAAAQAAAAAAAAAEgAAAAQAAAAAAAAAEwAAAAQAAAAAAAAAFAAAAAQAAAAAAAAAFQAAAAQAAAAAAAAAFgAAAAQAAAAAAAAAFwAAAAQAAAAAAAAA
         GAAAAAQAAAAAAAAAGQAAAAQAAAAAAAAAGgAAAAQAAAAAAAAAGwAAAAQAAAAAAAAAHAAAAAQAAAAAAAAAHQAAAAQAAAAAAAAAHgAAAAQAAAAAAAAAHwAAAAQAAAAAAAAA
@@ -19731,7 +19713,7 @@
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
         IQAAAAUAAAAAAAAAAQAAAIEHFsRV7VNAgO21oPfGsD5/uB6F61H6PwEIAAAAAQAAAMHZf39UJWJA0/iUdNs+9T+BbhKDwMr3PwEIAAAAAQAAAH9hSnK2n3hAkXDmAKx0
-        5z8AAiuHFtn4PwEBAAAAAQAAAPHGLfSQnrdA7rbr1cad0T/lKFyPwvXkPwEIAAAAAQAAAIQ3QCIBaM9AEC2UeFUn1T/FpZvEILDiPwEBAAAAAQAAAAAAAAAAAPA/AAAA
+        5z8AAiuHFtn4PwEBAAAAAQAAAPvGLfSQnrdA6rbr1cad0T/pKFyPwvXkPwEIAAAAAQAAAIE3QCIBaM9ABi2UeFUn1T/CpZvEILDiPwEBAAAAAQAAAAAAAAAAAPA/AAAA
         ABoCAACAAQAAAgAAAA==
         AAAQAAAA
       >
@@ -19771,8 +19753,8 @@
         ENV 5 0 0
         E 0 b0 01 1a
         ENV 5 0 0
-        E 0 90 2b 72
-        E 60 b0 0b 62
+        E 11 90 2b 6a
+        E 48 b0 0b 62
         ENV 5 0 0
         E 0 b0 01 1b
         ENV 5 0 0
@@ -19896,9 +19878,9 @@
         ENV 5 0 0
         E 0 b0 01 23
         ENV 5 0 0
-        E 56 80 2b 00
-        E 0 90 2e 72
-        E 4 b0 0b 65
+        E 52 80 2b 00
+        E 0 90 2e 76
+        E 8 b0 0b 65
         ENV 5 0 0
         E 0 b0 01 19
         ENV 5 0 0
@@ -19950,9 +19932,9 @@
         ENV 5 0 0
         E 0 b0 01 29
         ENV 5 0 0
-        E 0 80 2e 00
-        E 0 90 33 77
-        E 60 b0 01 2a
+        E 13 80 2e 00
+        E 0 90 33 79
+        E 47 b0 01 2a
         ENV 5 0 0
         E 60 b0 0b 6a
         ENV 5 0 0
@@ -19996,12 +19978,12 @@
         ENV 5 0 0
         E 60 b0 01 30
         ENV 5 0 0
-        E 60 b0 0b 7c
+        E 54 80 33 00
+        E 0 90 32 7f
+        E 6 b0 0b 7c
         ENV 5 0 0
         E 0 b0 01 30
         ENV 5 0 0
-        E 0 80 33 00
-        E 0 90 32 79
         E 60 b0 01 30
         ENV 5 0 0
         E 60 b0 0b 7d
@@ -20046,12 +20028,12 @@
         ENV 5 0 0
         E 60 b0 01 1a
         ENV 5 0 0
-        E 60 b0 0b 62
+        E 51 80 32 00
+        E 0 90 2a 79
+        E 9 b0 0b 62
         ENV 5 0 0
         E 0 b0 01 19
         ENV 5 0 0
-        E 0 80 32 00
-        E 0 90 2a 77
         E 60 b0 01 19
         ENV 5 0 0
         E 60 b0 0b 62
@@ -20192,12 +20174,12 @@
         ENV 5 0 0
         E 60 b0 01 1b
         ENV 5 0 0
-        E 60 b0 0b 62
+        E 54 80 2a 00
+        E 0 90 29 77
+        E 6 b0 0b 62
         ENV 5 0 0
         E 0 b0 01 1a
         ENV 5 0 0
-        E 0 80 2a 00
-        E 0 90 29 7f
         E 60 b0 01 1b
         ENV 5 0 0
         E 60 b0 0b 64
@@ -20326,12 +20308,12 @@
         ENV 5 0 0
         E 60 b0 01 2c
         ENV 5 0 0
-        E 60 b0 0b 6b
+        E 54 80 29 00
+        E 0 90 2c 7d
+        E 6 b0 0b 6b
         ENV 5 0 0
         E 0 b0 01 29
         ENV 5 0 0
-        E 0 80 29 00
-        E 0 90 2c 7f
         E 60 b0 01 25
         ENV 5 0 0
         E 60 b0 0b 6f
@@ -20364,12 +20346,12 @@
         ENV 5 0 0
         E 60 b0 01 22
         ENV 5 0 0
-        E 60 b0 0b 7c
+        E 53 80 2c 00
+        E 0 90 31 74
+        E 7 b0 0b 7c
         ENV 5 0 0
         E 0 b0 01 23
         ENV 5 0 0
-        E 0 80 2c 00
-        E 0 90 31 7f
         E 60 b0 01 24
         ENV 5 0 0
         E 60 b0 0b 78
@@ -20390,12 +20372,12 @@
         ENV 5 0 0
         E 60 b0 01 2a
         ENV 5 0 0
-        E 60 b0 0b 74
+        E 51 80 31 00
+        E 0 90 30 79
+        E 9 b0 0b 74
         ENV 5 0 0
         E 0 b0 01 2b
         ENV 5 0 0
-        E 0 80 31 00
-        E 0 90 30 79
         E 60 b0 01 2d
         ENV 5 0 0
         E 60 b0 0b 77
@@ -20440,12 +20422,12 @@
         ENV 5 0 0
         E 60 b0 01 22
         ENV 5 0 0
-        E 60 b0 0b 65
+        E 57 80 30 00
+        E 0 90 28 7d
+        E 3 b0 0b 65
         ENV 5 0 0
         E 0 b0 01 1b
         ENV 5 0 0
-        E 0 80 30 00
-        E 0 90 28 78
         E 60 b0 01 1b
         ENV 5 0 0
         E 60 b0 0b 66
@@ -20590,9 +20572,9 @@
         ENV 5 0 0
         E 0 b0 01 1a
         ENV 5 0 0
-        E 0 80 28 00
+        E 9 80 28 00
         E 0 90 27 7f
-        E 60 b0 01 1a
+        E 51 b0 01 1a
         ENV 5 0 0
         E 60 b0 0b 66
         ENV 5 0 0
@@ -20600,12 +20582,12 @@
         ENV 5 0 0
         E 60 b0 01 1f
         ENV 5 0 0
-        E 60 b0 0b 6b
+        E 59 80 27 00
+        E 0 90 26 7e
+        E 1 b0 0b 6b
         ENV 5 0 0
         E 0 b0 01 20
         ENV 5 0 0
-        E 0 80 27 00
-        E 0 90 26 7f
         E 60 b0 01 21
         ENV 5 0 0
         E 60 b0 0b 6f
@@ -20614,13 +20596,13 @@
         ENV 5 0 0
         E 60 b0 01 24
         ENV 5 0 0
-        E 56 90 27 61
-        E 4 b0 0b 72
+        E 60 b0 0b 72
         ENV 5 0 0
         E 0 b0 01 25
         ENV 5 0 0
-        E 0 80 26 00
-        E 60 b0 01 26
+        E 2 80 26 00
+        E 0 90 27 64
+        E 58 b0 01 26
         ENV 5 0 0
         E 60 b0 0b 76
         ENV 5 0 0
@@ -20688,9 +20670,9 @@
         ENV 5 0 0
         E 60 b0 01 1f
         ENV 5 0 0
-        E 43 80 27 00
+        E 33 80 27 00
         E 0 90 2b 7f
-        E 17 b0 0b 63
+        E 27 b0 0b 63
         ENV 5 0 0
         E 0 b0 01 19
         ENV 5 0 0
@@ -20726,9 +20708,9 @@
         ENV 5 0 0
         E 60 b0 01 2a
         ENV 5 0 0
-        E 48 80 2b 00
-        E 0 90 33 7e
-        E 12 b0 0b 7a
+        E 49 80 2b 00
+        E 0 90 33 7d
+        E 11 b0 0b 7a
         ENV 5 0 0
         E 0 b0 01 2c
         ENV 5 0 0
@@ -20764,13 +20746,13 @@
         ENV 5 0 0
         E 60 b0 01 30
         ENV 5 0 0
-        E 60 b0 0b 7d
+        E 50 80 33 00
+        E 0 90 32 76
+        E 10 b0 0b 7d
         ENV 5 0 0
         E 0 b0 01 30
         ENV 5 0 0
-        E 3 80 33 00
-        E 0 90 32 74
-        E 57 b0 01 2f
+        E 60 b0 01 2f
         ENV 5 0 0
         E 60 b0 0b 7e
         ENV 5 0 0
@@ -20790,12 +20772,12 @@
         ENV 5 0 0
         E 60 b0 01 23
         ENV 5 0 0
-        E 60 b0 0b 62
+        E 59 80 32 00
+        E 0 90 26 73
+        E 1 b0 0b 62
         ENV 5 0 0
         E 0 b0 01 1c
         ENV 5 0 0
-        E 0 80 32 00
-        E 0 90 26 78
         E 60 b0 01 1e
         ENV 5 0 0
         E 60 b0 0b 64
@@ -20804,12 +20786,12 @@
         ENV 5 0 0
         E 60 b0 01 1f
         ENV 5 0 0
-        E 60 b0 0b 68
+        E 54 80 26 00
+        E 0 90 25 7d
+        E 6 b0 0b 68
         ENV 5 0 0
         E 0 b0 01 21
         ENV 5 0 0
-        E 0 80 26 00
-        E 0 90 25 7d
         E 60 b0 01 23
         ENV 5 0 0
         E 60 b0 0b 6b
@@ -20822,9 +20804,9 @@
         ENV 5 0 0
         E 0 b0 01 27
         ENV 5 0 0
-        E 0 80 25 00
-        E 0 90 26 7e
-        E 60 b0 01 28
+        E 7 80 25 00
+        E 0 90 26 7f
+        E 53 b0 01 28
         ENV 5 0 0
         E 60 b0 0b 75
         ENV 5 0 0
@@ -20896,9 +20878,9 @@
         ENV 5 0 0
         E 0 b0 01 19
         ENV 5 0 0
-        E 0 80 26 00
-        E 0 90 2b 7a
-        E 60 b0 01 1c
+        E 4 80 26 00
+        E 0 90 2b 7c
+        E 56 b0 01 1c
         ENV 5 0 0
         E 60 b0 0b 68
         ENV 5 0 0
@@ -20930,12 +20912,12 @@
         ENV 5 0 0
         E 60 b0 01 19
         ENV 5 0 0
-        E 60 b0 0b 7c
+        E 40 80 2b 00
+        E 0 90 32 79
+        E 20 b0 0b 7c
         ENV 5 0 0
         E 0 b0 01 1a
         ENV 5 0 0
-        E 0 80 2b 00
-        E 0 90 32 7f
         E 60 b0 01 1e
         ENV 5 0 0
         E 60 b0 0b 7d
@@ -20968,12 +20950,12 @@
         ENV 5 0 0
         E 60 b0 01 2f
         ENV 5 0 0
-        E 60 b0 0b 7e
+        E 54 80 32 00
+        E 0 90 31 7f
+        E 6 b0 0b 7e
         ENV 5 0 0
         E 0 b0 01 30
         ENV 5 0 0
-        E 0 80 32 00
-        E 0 90 31 7f
         E 60 b0 01 30
         ENV 5 0 0
         E 60 b0 0b 7c
@@ -21000,57 +20982,57 @@
         ENV 5 2 0.0811
         E 0 b0 01 19
         ENV 5 0 0
-        E 0 80 31 00
+        E 13 80 31 00
         E 0 90 27 7f
-        E 240 90 2a 7f
-        E 26 80 27 00
-        E 214 90 2d 7f
-        E 26 80 2a 00
-        E 214 90 2a 7f
-        E 26 80 2d 00
-        E 214 90 2d 7f
-        E 26 80 2a 00
-        E 214 90 30 7c
-        E 26 80 2d 00
-        E 214 90 2d 7f
-        E 26 80 30 00
-        E 214 90 30 77
-        E 26 80 2d 00
-        E 214 90 33 7a
-        E 26 80 30 00
-        E 214 90 30 7b
-        E 26 80 33 00
-        E 214 90 33 7f
-        E 26 80 30 00
-        E 214 90 36 7e
-        E 26 80 33 00
-        E 214 90 39 77
-        E 26 80 36 00
-        E 214 90 36 7a
-        E 26 80 39 00
-        E 214 90 33 7c
-        E 26 80 36 00
-        E 214 90 30 7f
-        E 26 80 33 00
-        E 214 90 33 7f
-        E 26 80 30 00
-        E 214 90 30 7f
-        E 26 80 33 00
-        E 214 90 2d 7d
-        E 26 80 30 00
-        E 214 90 2a 7f
-        E 26 80 2d 00
-        E 154 b0 01 18
+        E 217 80 27 00
+        E 0 90 2a 7b
+        E 271 80 2a 00
+        E 0 90 2d 7b
+        E 207 80 2d 00
+        E 0 90 2a 7e
+        E 249 80 2a 00
+        E 0 90 2d 7f
+        E 236 80 2d 00
+        E 0 90 30 7f
+        E 246 80 30 00
+        E 0 90 2d 7f
+        E 233 80 2d 00
+        E 0 90 30 78
+        E 249 80 30 00
+        E 0 90 33 7e
+        E 251 80 33 00
+        E 0 90 30 7f
+        E 239 80 30 00
+        E 0 90 33 7f
+        E 229 80 33 00
+        E 0 90 36 7f
+        E 228 80 36 00
+        E 0 90 39 6b
+        E 260 80 39 00
+        E 0 90 36 7a
+        E 231 80 36 00
+        E 0 90 33 7f
+        E 235 80 33 00
+        E 0 90 30 75
+        E 253 80 30 00
+        E 0 90 33 79
+        E 233 80 33 00
+        E 0 90 30 7a
+        E 234 80 30 00
+        E 0 90 2d 7f
+        E 245 80 2d 00
+        E 0 90 2a 7f
+        E 181 b0 01 18
         ENV 5 0 0
-        E 34 b0 0b 7f
+        E 57 90 2b 7f
+        E 3 b0 01 19
         ENV 5 0 0
-        E 26 b0 01 19
+        E 0 b0 0b 7f
         ENV 5 0 0
-        E 0 80 2a 00
-        E 0 90 2b 7f
-        E 7 b0 0b 62
+        E 1 80 2a 00
+        E 1 b0 0b 61
         ENV 5 0 0
-        E 53 b0 01 1a
+        E 58 b0 01 1a
         ENV 5 0 0
         E 60 b0 01 1d
         ENV 5 0 0
@@ -21142,10 +21124,10 @@
         ENV 5 0 0
         E 53 b0 01 21
         ENV 5 0 0
-        E 60 b0 01 18
+        E 57 80 2b 00
+        E 0 90 2e 7d
+        E 3 b0 01 18
         ENV 5 0 0
-        E 0 80 2b 00
-        E 0 90 2e 7f
         E 7 b0 0b 67
         ENV 5 0 0
         E 53 b0 01 19
@@ -21194,11 +21176,11 @@
         ENV 5 0 0
         E 60 b0 01 27
         ENV 5 0 0
-        E 0 80 2e 00
-        E 0 90 33 7d
         E 7 b0 0b 6b
         ENV 5 0 0
-        E 53 b0 01 28
+        E 6 80 2e 00
+        E 0 90 33 7b
+        E 47 b0 01 28
         ENV 5 0 0
         E 60 b0 01 29
         ENV 5 0 0
@@ -21242,10 +21224,10 @@
         ENV 5 0 0
         E 53 b0 01 30
         ENV 5 0 0
-        E 60 b0 01 30
-        ENV 5 0 0
-        E 0 80 33 00
+        E 46 80 33 00
         E 0 90 32 7f
+        E 14 b0 01 30
+        ENV 5 0 0
         E 7 b0 0b 7c
         ENV 5 0 0
         E 53 b0 01 30
@@ -21296,9 +21278,9 @@
         ENV 5 0 0
         E 0 b0 01 1a
         ENV 5 0 0
-        E 0 80 32 00
-        E 0 90 2a 7f
-        E 60 b0 01 19
+        E 5 80 32 00
+        E 0 90 2a 7b
+        E 55 b0 01 19
         ENV 5 0 0
         E 60 b0 0b 63
         ENV 5 0 0
@@ -21438,12 +21420,12 @@
         ENV 5 0 0
         E 53 b0 01 21
         ENV 5 0 0
-        E 60 b0 0b 63
+        E 47 80 2a 00
+        E 0 90 29 7c
+        E 13 b0 0b 63
         ENV 5 0 0
         E 0 b0 01 1b
         ENV 5 0 0
-        E 0 80 2a 00
-        E 0 90 29 7f
         E 60 b0 01 1a
         ENV 5 0 0
         E 60 b0 01 1b
@@ -21574,11 +21556,11 @@
         ENV 5 0 0
         E 60 b0 01 2c
         ENV 5 0 0
-        E 0 80 29 00
-        E 0 90 2c 7c
         E 7 b0 0b 6b
         ENV 5 0 0
-        E 53 b0 01 29
+        E 5 80 29 00
+        E 0 90 2c 7c
+        E 48 b0 01 29
         ENV 5 0 0
         E 60 b0 01 25
         ENV 5 0 0
@@ -21612,10 +21594,10 @@
         ENV 5 0 0
         E 60 b0 01 22
         ENV 5 0 0
-        E 0 80 2c 00
-        E 0 90 31 7a
         E 7 b0 0b 7c
         ENV 5 0 0
+        E 0 80 2c 00
+        E 0 90 31 75
         E 53 b0 01 23
         ENV 5 0 0
         E 60 b0 01 24
@@ -21639,7 +21621,7 @@
         E 60 b0 01 2a
         ENV 5 0 0
         E 0 80 31 00
-        E 0 90 30 7f
+        E 0 90 30 74
         E 7 b0 0b 74
         ENV 5 0 0
         E 53 b0 01 2b
@@ -21686,12 +21668,12 @@
         ENV 5 0 0
         E 53 b0 01 28
         ENV 5 0 0
-        E 60 b0 0b 64
+        E 59 80 30 00
+        E 0 90 28 7f
+        E 1 b0 0b 64
         ENV 5 0 0
         E 0 b0 01 22
         ENV 5 0 0
-        E 0 80 30 00
-        E 0 90 28 7f
         E 60 b0 01 1a
         ENV 5 0 0
         E 60 b0 01 1a
@@ -21832,10 +21814,10 @@
         ENV 5 0 0
         E 53 b0 01 22
         ENV 5 0 0
-        E 60 b0 01 1c
+        E 58 80 28 00
+        E 0 90 27 6b
+        E 2 b0 01 1c
         ENV 5 0 0
-        E 0 80 28 00
-        E 0 90 27 6f
         E 7 b0 0b 63
         ENV 5 0 0
         E 53 b0 01 19
@@ -21848,11 +21830,11 @@
         ENV 5 0 0
         E 60 b0 01 1d
         ENV 5 0 0
-        E 0 80 27 00
-        E 0 90 26 74
         E 7 b0 0b 6b
         ENV 5 0 0
-        E 53 b0 01 1f
+        E 1 80 27 00
+        E 0 90 26 6e
+        E 52 b0 01 1f
         ENV 5 0 0
         E 60 b0 01 22
         ENV 5 0 0
@@ -21860,10 +21842,10 @@
         ENV 5 0 0
         E 53 b0 01 23
         ENV 5 0 0
-        E 60 b0 01 24
+        E 51 80 26 00
+        E 0 90 27 6e
+        E 9 b0 01 24
         ENV 5 0 0
-        E 0 80 26 00
-        E 0 90 27 72
         E 7 b0 0b 72
         ENV 5 0 0
         E 53 b0 01 25
@@ -21934,10 +21916,10 @@
         ENV 5 0 0
         E 53 b0 01 25
         ENV 5 0 0
-        E 60 b0 01 1f
+        E 52 80 27 00
+        E 0 90 2b 78
+        E 8 b0 01 1f
         ENV 5 0 0
-        E 0 80 27 00
-        E 0 90 2b 7e
         E 7 b0 0b 63
         ENV 5 0 0
         E 53 b0 01 19
@@ -21960,10 +21942,10 @@
         ENV 5 0 0
         E 53 b0 01 22
         ENV 5 0 0
-        E 60 b0 01 24
+        E 56 80 2b 00
+        E 0 90 33 7f
+        E 4 b0 01 24
         ENV 5 0 0
-        E 0 80 2b 00
-        E 0 90 33 7c
         E 7 b0 0b 7b
         ENV 5 0 0
         E 53 b0 01 26
@@ -22010,10 +21992,10 @@
         ENV 5 0 0
         E 53 b0 01 30
         ENV 5 0 0
-        E 60 b0 01 30
+        E 56 80 33 00
+        E 0 90 32 71
+        E 4 b0 01 30
         ENV 5 0 0
-        E 0 80 33 00
-        E 0 90 32 76
         E 7 b0 0b 7d
         ENV 5 0 0
         E 53 b0 01 30
@@ -22038,9 +22020,9 @@
         ENV 5 0 0
         E 60 b0 01 22
         ENV 5 0 0
-        E 0 80 32 00
-        E 0 90 26 79
-        E 7 b0 0b 62
+        E 3 80 32 00
+        E 0 90 26 7a
+        E 4 b0 0b 62
         ENV 5 0 0
         E 53 b0 01 1b
         ENV 5 0 0
@@ -22050,10 +22032,10 @@
         ENV 5 0 0
         E 53 b0 01 1d
         ENV 5 0 0
-        E 60 b0 01 1f
+        E 59 80 26 00
+        E 0 90 25 76
+        E 1 b0 01 1f
         ENV 5 0 0
-        E 0 80 26 00
-        E 0 90 25 7f
         E 7 b0 0b 68
         ENV 5 0 0
         E 53 b0 01 1f
@@ -22066,9 +22048,9 @@
         ENV 5 0 0
         E 60 b0 01 23
         ENV 5 0 0
-        E 0 80 25 00
-        E 0 90 26 7f
-        E 7 b0 0b 70
+        E 1 80 25 00
+        E 0 90 26 7e
+        E 6 b0 0b 70
         ENV 5 0 0
         E 53 b0 01 24
         ENV 5 0 0
@@ -22138,10 +22120,10 @@
         ENV 5 0 0
         E 53 b0 01 24
         ENV 5 0 0
-        E 60 b0 01 1d
-        ENV 5 0 0
-        E 0 80 26 00
+        E 55 80 26 00
         E 0 90 2b 78
+        E 5 b0 01 1d
+        ENV 5 0 0
         E 7 b0 0b 64
         ENV 5 0 0
         E 53 b0 01 1e
@@ -22178,11 +22160,11 @@
         ENV 5 0 0
         E 60 b0 01 28
         ENV 5 0 0
-        E 0 80 2b 00
-        E 0 90 32 7e
         E 7 b0 0b 7c
         ENV 5 0 0
-        E 53 b0 01 19
+        E 4 80 2b 00
+        E 0 90 32 7f
+        E 49 b0 01 19
         ENV 5 0 0
         E 60 b0 01 1b
         ENV 5 0 0
@@ -22216,11 +22198,11 @@
         ENV 5 0 0
         E 60 b0 01 2e
         ENV 5 0 0
-        E 0 80 32 00
-        E 0 90 31 7d
         E 7 b0 0b 7e
         ENV 5 0 0
-        E 53 b0 01 2f
+        E 6 80 32 00
+        E 0 90 31 7f
+        E 47 b0 01 2f
         ENV 5 0 0
         E 60 b0 01 30
         ENV 5 0 0
@@ -22240,67 +22222,67 @@
         ENV 5 0 0
         E 53 b0 01 2a
         ENV 5 0 0
-        E 60 b0 0b 63
+        E 51 80 31 00
+        E 0 90 27 73
+        E 9 b0 0b 63
         ENV 5 0 0
         E 0 b0 01 25
         ENV 5 0 0
-        E 0 80 31 00
-        E 0 90 27 7f
         E 7 b0 0b 7f
         ENV 5 2 0.0811
         E 53 b0 01 19
         ENV 5 0 0
-        E 180 80 27 00
-        E 0 90 2a 75
-        E 240 80 2a 00
-        E 0 90 2d 79
-        E 240 80 2d 00
-        E 0 90 2a 7f
-        E 240 80 2a 00
-        E 0 90 2d 7d
-        E 240 80 2d 00
-        E 0 90 30 7b
-        E 240 80 30 00
+        E 178 80 27 00
+        E 0 90 2a 7d
+        E 243 80 2a 00
         E 0 90 2d 7f
-        E 240 80 2d 00
-        E 0 90 30 7f
-        E 240 80 30 00
-        E 0 90 33 75
-        E 240 80 33 00
-        E 0 90 30 7f
-        E 240 80 30 00
+        E 222 80 2d 00
+        E 0 90 2a 7e
+        E 246 80 2a 00
+        E 0 90 2d 7c
+        E 254 80 2d 00
+        E 0 90 30 78
+        E 228 80 30 00
+        E 0 90 2d 7f
+        E 242 80 2d 00
+        E 0 90 30 79
+        E 263 80 30 00
+        E 0 90 33 6d
+        E 231 80 33 00
+        E 0 90 30 79
+        E 231 80 30 00
         E 0 90 33 7d
-        E 240 80 33 00
+        E 231 80 33 00
         E 0 90 36 79
-        E 240 80 36 00
-        E 0 90 39 7f
-        E 240 80 39 00
-        E 0 90 36 7e
-        E 240 80 36 00
+        E 248 80 36 00
+        E 0 90 39 7b
+        E 249 80 39 00
+        E 0 90 36 7f
+        E 237 80 36 00
         E 0 90 33 7b
-        E 240 80 33 00
-        E 0 90 30 7f
-        E 240 80 30 00
-        E 0 90 33 7f
-        E 240 80 33 00
+        E 233 80 33 00
         E 0 90 30 7c
-        E 240 80 30 00
+        E 251 80 30 00
+        E 0 90 33 7f
+        E 227 80 33 00
+        E 0 90 30 7f
+        E 255 80 30 00
         E 0 90 2d 7f
-        E 240 80 2d 00
-        E 0 90 2a 7c
+        E 225 80 2d 00
+        E 0 90 2a 7e
         E 239 80 2a 00
-        E 28801 b0 7b 00
+        E 28808 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
         GUID {BFFF5F49-D157-4E1D-9F1C-89CF964B26E9}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 3778
         VELLANE 1 410 0
-        CFGEDITVIEW 82127.816121 0.028922 38 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 423.902761 0.214893 48 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1.99583333 0 0 0 0 0.51 0 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1 0 0 0 0 0.51 0 0 1 64
       >
     >
     <ITEM
@@ -24860,11 +24842,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 3778
         VELLANE 1 410 0
-        CFGEDITVIEW -1392.183879 0.028922 38 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -83096.097239 0.214893 48 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1.99583333 0 0 0 0 0.51 0 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1 0 0 0 0 0.51 0 0 1 64
       >
     >
     <ITEM
@@ -25526,11 +25508,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 3778
         VELLANE 1 410 0
-        CFGEDITVIEW -84912.18388 0.028922 38 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -166616.097239 0.214893 48 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 269
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1.99583333 0 0 0 0 0.51 0 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 30 5 1902 1015 0 0 0 4 1 0 0 0 0 0.51 0 0 1 64
       >
     >
   >
@@ -25539,7 +25521,7 @@
     PEAKCOL 27977103
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.81820013287954 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -25659,10 +25641,11 @@
       <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
         IQAAAAUAAAAAAAAAAQAAAGhIzzvBGkRAgO21oPfGsD7ByHa+nxr5PwEIAAAAAQAAAEEdt7MYJFJAQYw0vY0m+D9RO99PjZf2PwEIAAAAAQAAAD/ie7Gb7l5AP4arWxep
-        5z+SbhKDwMr1PwEBAAAAAQAAAKh0NM7MFppAge21oPfGsD7BfD81Xrr5PwEBAAAAAAAAACgjlLnfobVAgO21oPfGsD5CukkMAivfPwEBAAAAAQAAAAAAAAAAAPA/AAAA
+        5z+SbhKDwMr1PwEBAAAAAQAAAK50NM7MFppAge21oPfGsD7BfD81Xrr5PwEBAAAAAAAAACgjlLnfobVAgO21oPfGsD5CukkMAivfPwEBAAAAAQAAAAAAAAAAAPA/AAAA
         ABoCAACAAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
+      PRESETNAME "Program 1"
       FLOATPOS 424 109 554 450
       FXID {BE09A933-BCBE-4F70-8349-DFBFD723652F}
       WAK 0 0
